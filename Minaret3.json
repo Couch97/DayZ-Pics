@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_SewerCover",
+            "pos": [
+                11855.0634765625,
+                169.61634826660157,
+                10874.7353515625
+            ],
+            "ypr": [
+                -1.017785031601215e-12,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999926686286926,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mosque_Big_Minaret1",
+            "pos": [
+                11854.568359375,
+                169.60415649414063,
+                10875.5380859375
+            ],
+            "ypr": [
+                113.23956298828125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999854564666748,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
